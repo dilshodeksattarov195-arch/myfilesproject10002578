@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionsalculate",
+        "uuid": 10023264,
+        "checksum": "27dyy"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
